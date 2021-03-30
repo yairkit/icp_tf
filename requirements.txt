@@ -33,7 +33,7 @@ protobuf==3.12.4
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pyface==7.0.1
-Pygments==2.6.1
+Pygments==2.7.4
 pyparsing==2.4.7
 PyQt5==5.14.0
 PyQt5-sip==12.8.0
