@@ -51,7 +51,7 @@ termcolor==1.1.0
 traits==6.1.1
 traitsui==7.0.1
 urllib3==1.26.5
-vtk==8.1.2
+vtk==9.0.1
 Werkzeug==1.0.1
 wrapt==1.12.1
 zipp==3.1.0
